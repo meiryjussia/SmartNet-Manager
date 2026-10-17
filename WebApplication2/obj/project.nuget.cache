@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0v0lw+We3C0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mjuss\\Documents\\SmartNetManager\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mjuss\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\mjuss\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
